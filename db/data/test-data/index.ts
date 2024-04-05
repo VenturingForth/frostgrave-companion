@@ -3,3 +3,4 @@ exports.soldiersData = require('./soldiers.json');
 exports.generalArmsData = require("./general_arms.json");
 exports.generalArmourData = require("./general_armour.json");
 exports.potionsData = require("./potions.json");
+exports.magicWeaponsAndArmourData = require('./magic_weapons_and_armour.json');

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hand Weapon",
+        "effects": {
+            "damage": 1
+        },
+        "purchase_price": 300,
+        "sale_price": 125
+    },
+    {
+        "name": "Hand Weapon",
+        "effects": {
+            "fight": 1
+        },
+        "purchase_price": 500,
+        "sale_price": 200
+    },
+    {
+        "name": "Hand Weapon",
+        "effects": {
+            "will": 2
+        },
+        "purchase_price": 300,
+        "sale_price": 125
+    }
+]
