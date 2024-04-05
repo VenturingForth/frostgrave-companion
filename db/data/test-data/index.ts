@@ -1,0 +1,1 @@
+exports.wizardTypesData = require('./wizard_types.json');

@@ -1,0 +1,82 @@
+[
+    {
+        "type":"Chronomancer",
+        "description": "Chronomancers use magic to manipulate time itself. As the youngest branch of magic, it is less developed and less understood than any of the others, and thus potentially the most dangerous. Chronomancers tend to be gamblers and risk-takers – those who prefer a quick path to power. They have no specific style of dress, although they tend to like outfits that project a sense of power and often carry an intimidating weapon, even if they have little skill in using it. Given the powers they wield, Chronomancers are just as likely to appear ancient as eternally youthful, and some may display elements of both, such as a young face on an old body.",
+        "source": "core",
+        "aligned_type_ids": [2,5,7],
+        "neutral_type_ids": [4,6,8,9,10],
+        "opposed_type_ids": [3]
+    },
+    {
+        "type":"Elementalist",
+        "description": "Elementalists are the most outwardly powerful type of wizard. Their magic is centred on controlling the four elements, usually in loud, explosive, and unsubtle ways. Their clothes tend to feature one bold colour (usually red, green or blue), and they are more prone to flashy decorations than other wizards – facial tattoos are not uncommon. Most Elementalists, especially those that specialize in the control of fire, tend to have short tempers. While a Fire Elementalist may specialize in fire magic, they are more than capable of harnessing the powers of Water, Wind, or Earth, should it be necessary.",
+        "source": "core",
+        "aligned_type_ids": [1,3,8],
+        "neutral_type_ids": [5,6,7,9,10],
+        "opposed_type_ids": [4]
+    },
+    {
+        "type":"Enchanter",
+        "description": "Enchanters are hands-on wizards who work their magic by investing it in objects or people. Many Enchanters are also craftsmen, such as carpenters or sculptors, who apply magic to the items they create. In appearance, Enchanters are often the least ‘wizardly’ looking of all wizards, being just as likely to carry craftsman’s tools as they are weapons or magic items.",
+        "source": "core",
+        "aligned_type_ids": [2,6,10],
+        "neutral_type_ids": [4,5,7,8,9],
+        "opposed_type_ids": [1]
+    },
+    {
+        "type":"Illusionist",
+        "description": "Sometimes derided for being mere stage magicians, an experienced Illusionist can be a dangerous foe. Illusionists use magic to fool the senses, cause confusion and fear, and convince people of things that aren’t true. In dress, Illusionists are usually colourful, preferring bright, multi-coloured robes, cloaks, and hats. They rarely carry weapons or other magic equipment openly, preferring to produce these items out of thin air as and when they are needed.",
+        "source": "core",
+        "aligned_type_ids": [6,7,9],
+        "neutral_type_ids": [1,3,5,8,10],
+        "opposed_type_ids": [2]
+    },
+    {
+        "type":"Necromancer",
+        "description": "Necromancers study the magic associated with death, as well as the creation and control of undead creatures such as zombies and animated skeletons. They generally wear dark colours (most commonly black), and tend to have a sickly, unhealthy appearance. While Necromancers are not necessarily evil, there are few that have delved deeply into this school of magic without giving in to its corrupting influence.",
+        "source": "core",
+        "aligned_type_ids": [1,8,10],
+        "neutral_type_ids": [2,3,4,6,7],
+        "opposed_type_ids": [9]
+    },
+    {
+        "type":"Sigilist",
+        "description": "Sigilists work magic through reading and writing. They are masters of languages, both living and dead, and can see the mystical patterns in writing of all types. Most famously, they are the writers of magic scrolls and books, storing energy within writing for later use. They are often physically weaker, bookish wizards and tend not to carry any weapons other than a staff, but often end up loaded down with books and scrolls.",
+        "source": "core",
+        "aligned_type_ids": [3,4,9],
+        "neutral_type_ids": [1,2,5,7,10],
+        "opposed_type_ids": [8]
+    },
+    {
+        "type":"Soothsayer",
+        "description": "The subtle magic of a Soothsayer allows the wizard to extend their senses beyond their body, including through time itself. They can reach into the past to learn the secrets of history or gaze into the future to catch a glimpse of things to come. They can even reach into the minds of other beings. There are very few young Soothsayers as the patience and concentration required favours the old. Soothsayers are most easily recognizable by their eyes, which are almost always very pale, and often possess a distant, empty gaze. Because Soothsayers often collect items of clothing with interesting histories, they tend to wear an odd mix of clothing and equipment – a Soothsayer sees nothing odd about combining an expensive cloak with worn and badly stained robes or hanging an old seashell on a leather strap right next to a priceless emerald.",
+        "source": "core",
+        "aligned_type_ids": [1,4,9],
+        "neutral_type_ids": [2,3,5,6,8],
+        "opposed_type_ids": [10]
+    },
+    {
+        "type":"Summoner",
+        "description": "Summoners work their magic by opening doorways to different planes of existence. This is usually to bring forth creatures from these other planes to use as servants, although this is not the limit of this school of magic. It is perhaps worth mentioning that the term ‘demon’ refers to any being from another plane of existence – demons are not all necessarily evil, nor do they all have horns or hooves. That said, demons are rarely happy about being summoned, and the life of a Summoner is a dangerous one.",
+        "source": "core",
+        "aligned_type_ids": [2,5,10],
+        "neutral_type_ids": [1,3,4,7,9],
+        "opposed_type_ids": [6]
+    },
+    {
+        "type":"Thaumaturge",
+        "description": "Thaumaturges draw their magic powers from positive energy. Most, though not all, believe that this energy comes from some form of deity. These wizards are healers and protectors, who often spend as much time on good works as they do on the study of magic. Thaumaturges rarely carry any weapon other than a staff and some find even that a bit aggressive. This is not to say that Thaumaturges are pacifists, however, just that most prefer to avoid obvious displays of force. In appearance, they usually wear plain, simple robes and tend to favour hoods over hats, and wood and leather over gold and silk.",
+        "source": "core",
+        "aligned_type_ids": [4,6,7],
+        "neutral_type_ids": [1,2,3,8,10],
+        "opposed_type_ids": [5]
+    },
+    {
+        "type":"Witch",
+        "description": "Witches draw on the subtle powers of nature for their magic and specialize in the brewing of potions, casting of curses, and seeking aid from plants and animals. Contrary to popular belief, most witches are not ugly old women but can be found amongst all ages and genders. Witches do tend to be hoarders and always carry around a bag (or several bags) to collect various ingredients – bits of mistletoe, insects (live or otherwise), oddly shaped rocks etc.",
+        "source": "core",
+        "aligned_type_ids": [3,5,8],
+        "neutral_type_ids": [1,2,4,6,9],
+        "opposed_type_ids": [7]
+    }
+]
