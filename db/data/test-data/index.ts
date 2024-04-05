@@ -5,3 +5,5 @@ exports.generalArmourData = require("./general_armour.json");
 exports.potionsData = require("./potions.json");
 exports.magicWeaponsAndArmourData = require("./magic_weapons_and_armour.json");
 exports.magicItemsData = require("./magic_items.json");
+exports.baseLocationsData = require("./base_locations.json");
+exports.baseResourcesData = require("./base_resources.json");
