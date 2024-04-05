@@ -11,7 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "@jest/globals": "^29.7.0",
+    "@types/node": "^20.12.4",
     "ts-jest": "^29.1.2",
     "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pg": "^8.11.5",
+    "pg-format": "^1.0.4"
   }
 }
