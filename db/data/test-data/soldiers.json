@@ -1,0 +1,54 @@
+[
+    {
+        "soldier_type": "standard",
+        "name": "Thug",
+        "move": 6,
+        "fight": 2,
+        "shoot": 0,
+        "armour": 10,
+        "will": -1,
+        "health": 10,
+        "cost": 0,
+        "notes": ["Hand Weapon"],
+        "source": "core"
+    },
+    {
+        "soldier_type": "standard",
+        "name": "Thief",
+        "move": 7,
+        "fight": 1,
+        "shoot": 0,
+        "armour": 10,
+        "will": 0,
+        "health": 10,
+        "cost": 0,
+        "notes": ["Dagger"],
+        "source": "core"
+    },
+    {
+        "soldier_type": "standard",
+        "name": "War Hound",
+        "move": 8,
+        "fight": 1,
+        "shoot": 0,
+        "armour": 10,
+        "will": -2,
+        "health": 8,
+        "cost": 10,
+        "notes": ["Animal"],
+        "source": "core"
+    },
+    {
+        "soldier_type": "specialist",
+        "name": "Archer",
+        "move": 6,
+        "fight": 1,
+        "shoot": 2,
+        "armour": 11,
+        "will": -2,
+        "health": 8,
+        "cost": 75,
+        "notes": ["Bow", "Quiver", "Dagger", "Light Armour"],
+        "source": "core"
+    }
+]
