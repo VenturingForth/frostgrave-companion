@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Bottle of Burrowing",
+        "description": "A figure that drinks this potion may use any remaining actions in the activation to move directly through terrain. The figure may not end its activation inside terrain, so must have enough movement to make it completely through the terrain piece.",
+        "grade": "Lesser",
+        "purchase_price": 200,
+        "sale_price": 80,
+        "ingredient_cost": 0,
+        "source": "core"
+    },
+    {
+        "name": "Bottle of Darkness",
+        "description": "If a figure shatters this bottle on the ground, an unnatural darkness immediately falls upon the battlefield. Line of sight for everyone is reduced to 12” for the rest of the game.",
+        "grade": "Greater",
+        "purchase_price": 1500,
+        "sale_price": 300,
+        "ingredient_cost": 600,
+        "source": "core"
+    },
+    {
+        "name": "Bottle of Dreams and Nightmares",
+        "description": "This potion can only be used by a wizard immediately before a game. The wizard should immediately make a Will Roll (TN12). If successful, then the wizard gains an extra 50 experience points after the game. This does not count towards the 300 experience point maximum in a game. If unsuccessful, the wizard has 30 experience points deducted from those earned during the game (this cannot take the total experience gained for the game below 0). These 30 experience points are deducted from the maximum that can be earned (meaning a wizard that fails can earn a maximum of 270 experience points in the game).",
+        "grade": "Greater",
+        "purchase_price": 2000,
+        "sale_price": 300,
+        "ingredient_cost": 500,
+        "source": "core"
+    }
+]
