@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Dagger",
+        "damage_modifier": -1,
+        "maximum_range": 0,
+        "notes": "First dagger does not take up an item slot"
+    },
+    {
+        "name": "Hand Weapon",
+        "damage_modifier": 0,
+        "maximum_range": 0,
+        "notes": ""
+    },
+    {
+        "name": "Bow",
+        "damage_modifier": 0,
+        "maximum_range": 24,
+        "notes": "Load and fire as a single action; must have a quiver"
+    }
+]

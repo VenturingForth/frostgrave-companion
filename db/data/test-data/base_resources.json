@@ -1,0 +1,14 @@
+[
+    {
+        "resource": "Kennel",
+        "effects": "Allows a wizard to keep one war hound or wolf (Animal Companion) in their warband above their normal soldier limit. Thus, a wizard may bring eight soldiers plus one war hound/wolf to each game.",
+        "purchase_price": 400,
+        "source": "core"
+    },
+    {
+        "resource": "Giant Cauldron",
+        "effects": "Confers a +1 to Casting Rolls for Brew Potion.",
+        "purchase_price": 250,
+        "source": "core"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "location": "Inn",
+        "effects": "This old inn has plenty of room to house soldiers and their gear. The wizard may keep an extra soldier in their warband. This soldier can be a specialist. However, this extra soldier cannot be used in a game and must remain in the base. Even with an inn, a wizard is still limited to eight soldiers in a game, with a maximum of four specialists. The wizard may change which soldier is left in the inn each game, which is useful if a soldier must miss a game due to injury.",
+        "source": "core"
+    }
+]

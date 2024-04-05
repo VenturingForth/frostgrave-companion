@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Amulet of Resistance",
+        "description": "Once per game, the wearer may add +4 to a Will Roll to resist a spell. The decision to use the amulet can be made after the die has been rolled.",
+        "purchase_price": 300,
+        "sale_price": 100,
+        "source": "core"
+    },
+    {
+        "name": "Boots of Speed",
+        "description": "The wearer gains +1 Move.",
+        "purchase_price": 300,
+        "sale_price": 130,
+        "source": "core"
+    },
+    {
+        "name": "Construct Hammer",
+        "description": "“This large, enchanted hammer can be fitted to a medium or large construct before or after a game. A construct equipped with this item is treated as carrying a magic weapon and receives an additional +1 damage modifier. A construct may only ever be fitted with one construct hammer.",
+        "purchase_price": 300,
+        "sale_price": 100,
+        "source": "core"
+    }
+]
